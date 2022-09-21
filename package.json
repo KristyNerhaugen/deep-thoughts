@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/KristyNerhaugen/deep-thoughts/issues"
   },
-  "homepage": "https://github.com/KristyNerhaugen/deep-thoughts#readme",
+  "homepage": "https://kn-deep-thoughts.herokuapp.com/",
   "devDependencies": {
     "concurrently": "^7.4.0"
   }
